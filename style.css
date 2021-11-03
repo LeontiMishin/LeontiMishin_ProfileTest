@@ -54,7 +54,7 @@ ul li {
 }
 
 header {
-    background-color: darkslateblue;
+    background-color: rgb(6, 172, 144);
     height: 210px;
     font-size: 0.8em;
     margin-left: 0px;
@@ -91,7 +91,7 @@ main, .logo, .menubar, .site_content, footer {
 }
 
 .menubar {
-    width: 900px;
+    width: 600px;
     height: 46px;
 }
 
@@ -128,7 +128,7 @@ hr {
 }
 
 .site_content {
-    width: 900px;
+    width: 1200px;
     overflow: hidden;
     margin: 20px auto 0 auto;
     background-color: white;
@@ -179,7 +179,7 @@ hr {
 
 .content {
     text-align: left;
-    width: 620px;
+    width: 740px;
     padding: 0 0 0 5px;
     float: left;
 }
